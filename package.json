@@ -1,0 +1,11 @@
+{
+  "name": "fem-networking-streams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Morgan <contact@jamesmorgan.io> (https://jamesmorgan.io/)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body": "5.1.0"
+  }
+}
